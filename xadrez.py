@@ -3,6 +3,7 @@ import copy
     #TODO extra: fazer um menu e dar a opcao de voltar atras
 
 
+
 class Peca:
     def __init__(self, nome, simbolo):
         self.nome = nome
